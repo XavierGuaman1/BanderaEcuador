@@ -17,22 +17,31 @@
 
 .yellow {
   background-color: yellow;
-  width: 250px;
-  height: 150px;
-  margin: 5px
+  width: 350px;
+  height: 200px; /* Ajusta la altura según tus preferencias */
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .blue {
   background-color: blue;
-  width: 180px;
-  height: 100px;
+  width: 200px;
+  height: 200px; /* Ajusta la altura según tus preferencias */
   margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .red {
   background-color: red;
   width: 130px;
-  height: 65px;
+  height: 100px;
   margin: 5px;
   font-size: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
